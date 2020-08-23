@@ -646,7 +646,9 @@ footer input:hover{
             header ul.show {
                   transform: translateX(0);
                 }
-
+  .themes h1{
+                  margin-top: 50px;
+                }
            
             .footer-content{
                 display: flex;
