@@ -551,10 +551,9 @@ footer input:hover{
 
 @media screen and (max-width: 768px) {
   .container {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
-    padding-left: 10px;
-    padding-right: 10px;
+   
   }
            
             body {
@@ -625,12 +624,12 @@ footer input:hover{
                 position: fixed;
                 display: flex;
                 flex-direction: column;
-                height: 100vh;
+                height: 40vh;
                 width: 50%;
                 background-color: rgb(10, 25, 47);
                 overflow: hidden;
                 right: 0px;
-                top:0px;
+                top:10vh;
                 transform: translateX(100%);
                 z-index: 2;
                 transition: all 0.5s ease-out;
